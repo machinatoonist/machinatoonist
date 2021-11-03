@@ -29,7 +29,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Coursera - Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke/)
 * [edX Stanford Online - Statistical Learning](https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2020/home)
 * [Tidy Modeling with R](https://www.tmwr.org/)
-* Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the TidyTuesday package.
+* Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
 
 ### 📚 Currently Learning More About:
 
@@ -62,6 +62,6 @@ Since there are too many things to learn at once...
 
 ### 💬 Ask Me About:
 
-* Machine learning modeling with Tidymodels and Shiny dashboards.
+* Inference with Data Science and Machine learning modeling with Tidymodels and Shiny dashboards.
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
