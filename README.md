@@ -28,12 +28,12 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * [Coursera - Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke/)
 * [edX Stanford Online - Statistical Learning](https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2020/home)
-
-* Building data visualisation and models with Tidymodels, Modeltime and Tidyverse. Every Tuesday I check out the latest data posted via the TidyTuesday package.
+* [Tidy Modeling with R](https://www.tmwr.org/)
+* Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the TidyTuesday package.
 
 ### 📚 Currently Learning More About:
 
-* Bayesian statistics with Python, with the second edition of the book [Think Bayes](https://smile.amazon.com/gp/product/149208946X/).
+* Applied Predictive Modeling, with the book by Max Kuhn and Kjell Johnson [Applied Predictive Modeling](http://appliedpredictivemodeling.com/).
 
 ### 💡 Future Learning Plans:
 
@@ -53,9 +53,12 @@ Since there are too many things to learn at once...
 
 * Having a look at the Friday challenges at [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/)
 
-### Books On My To Read List
+### Books On My Reading List
 
 * [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919). 
+* [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/).
+* [Practical MLOps: Operationalizing Machine Learning Models](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/).
+* [Feature Engineering and Selection](https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive/).
 
 ### 💬 Ask Me About:
 
