@@ -62,6 +62,6 @@ Since there are too many things to learn at once...
 
 ### 💬 Ask Me About:
 
-* Inference with Data Science and Machine learning modeling with Tidymodels and Shiny dashboards.
+* Time Series Forecasting and Recommendation Systems using Tidymodels and Shiny dashboards.
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
