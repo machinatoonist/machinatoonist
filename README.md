@@ -59,6 +59,7 @@ Since there are too many things to learn at once...
 * [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/).
 * [Practical MLOps: Operationalizing Machine Learning Models](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/).
 * [Feature Engineering and Selection](https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive/).
+* [The Full Bookdown Catalog] (https://rviews.rstudio.com/2021/11/04/bookdown-org/)
 
 ### 💬 Ask Me About:
 
