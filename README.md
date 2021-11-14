@@ -27,6 +27,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * [Coursera - Building Cloud Computing Solutions as Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
+* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
 * [edX Stanford Online - Statistical Learning](https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2020/home)
 * [Tidy Modeling with R](https://www.tmwr.org/)
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
@@ -38,8 +39,6 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 ### 💡 Future Learning Plans:
 
 Since there are too many things to learn at once...
-
-* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
 
 * [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. I don't work in supply chain but enjoy solving "real world" problems with simulations. 
 
@@ -60,6 +59,14 @@ Since there are too many things to learn at once...
 * [Practical MLOps: Operationalizing Machine Learning Models](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/).
 * [Feature Engineering and Selection](https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive/).
 * [The Full Bookdown Catalog](https://rviews.rstudio.com/2021/11/04/bookdown-org/)
+
+### Information Honeypots
+
+* [Steve Nouri's Online Book Links](https://www.linkedin.com/pulse/free-data-science-books-20-steve-nouri/)
+* [R Public Library By Topic](https://rviews.rstudio.com/2021/11/04/bookdown-org/)
+* [R Studio Conference Materials](https://github.com/rstudio/rstudio-conf)
+* [CRAN Machine Learning](https://cran.r-project.org/web/views/MachineLearning.html)
+* [CRAN Task Views](https://cran.r-project.org/web/views/)
 
 ### 💬 Ask Me About:
 
