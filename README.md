@@ -67,6 +67,7 @@ Since there are too many things to learn at once...
 * [R Studio Conference Materials](https://github.com/rstudio/rstudio-conf)
 * [CRAN Machine Learning](https://cran.r-project.org/web/views/MachineLearning.html)
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
+* [Bookdown](https://bookdown.org/home/tags/)
 
 ### 💬 Ask Me About:
 
