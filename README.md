@@ -72,6 +72,7 @@ Since there are too many things to learn at once...
 ### Data Sources
 
 * [Public APIs](https://github.com/public-apis/public-apis)
+* [Big Query public databases](https://cloud.google.com/bigquery)
 
 ### 💬 Ask Me About:
 
