@@ -69,6 +69,10 @@ Since there are too many things to learn at once...
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
 * [Bookdown](https://bookdown.org/home/tags/)
 
+### Data Sources
+
+* [Public APIs](https://github.com/public-apis/public-apis)
+
 ### 💬 Ask Me About:
 
 * Time Series Forecasting and Recommendation Systems using Tidymodels and Shiny dashboards.
