@@ -26,11 +26,14 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 ### 💻 Currently Working On
 
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
-* [Coursera - Building Cloud Computing Solutions as Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
-* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
 * [edX Stanford Online - Statistical Learning](https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2020/home)
 * [Tidy Modeling with R](https://www.tmwr.org/)
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
+
+### Recently Finished Working On
+* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
+* [Coursera - Building Cloud Computing Solutions as Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
+
 
 ### 📚 Currently Learning More About:
 
