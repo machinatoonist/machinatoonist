@@ -17,7 +17,7 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-[Interlate](https://www.interlate.com/): Senior Data Scientist
+[Damstra Technology](https://www.damstratechnology.com/): Lead Data Scientist
 
 ### ✏️ Left School With
 
