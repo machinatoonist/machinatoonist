@@ -31,9 +31,9 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 
 ### ☕ Recently Finished Working On
 * [Coursera - Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/f83d875f2eb0386ca84bf1a500e192f1)
-* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
-* [Coursera - Building Cloud Computing Solutions as Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
-* [edX Stanford Online - Statistical Learning](https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2020/home)
+* [Practical Data Science Specialization](https://coursera.org/share/42191e339042e776efa617cf6edc49f2), learning how to combine my machine learning knowledge with AWS. 
+* [Coursera - Building Cloud Computing Solutions as Scale](https://coursera.org/share/60cb54781888f2614d7bf3f4005c03fe)
+* [edX Stanford Online - Statistical Learning](https://courses.edx.org/certificates/b0e1d1bb11b542db8929d7cc9d145de9)
 
 
 ### 📚 Currently Learning More About:
