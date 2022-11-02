@@ -17,7 +17,7 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-[Damstra Technology](https://www.damstratechnology.com/): Lead Data Scientist
+Currently Exploring New Opportunities
 
 ### ✏️ Left School With
 
@@ -25,6 +25,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 
 ### 💻 Currently Working On
 
+* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * [Tidy Modeling with R](https://www.tmwr.org/)
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
@@ -51,8 +52,6 @@ Since there are too many things to learn at once...
 * Julia language with an [MIT course](https://computationalthinking.mit.edu/Spring21/). 
 
 * [Discrete Optimization Algorithms](https://www.coursera.org/learn/discrete-optimization).
-
-* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
 
 * Having a look at the Friday challenges at [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/)
 
