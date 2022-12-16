@@ -24,13 +24,14 @@ Currently Exploring New Opportunities
 PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investment
 
 ### 💻 Currently Working On
-
-* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
+* [Bayesian Linear Regression and Classification in Python](www.deeplearningcourses.com)
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
-* [Tidy Modeling with R](https://www.tmwr.org/)
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
 
 ### ☕ Recently Finished Working On
+* [Natural Language Processing with Transformers](https://www.getsphere.com/)
+* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
+* [Tidy Modeling with R](https://www.tmwr.org/)
 * [Coursera - Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/f83d875f2eb0386ca84bf1a500e192f1)
 * [Practical Data Science Specialization](https://coursera.org/share/42191e339042e776efa617cf6edc49f2), learning how to combine my machine learning knowledge with AWS. 
 * [Coursera - Building Cloud Computing Solutions as Scale](https://coursera.org/share/60cb54781888f2614d7bf3f4005c03fe)
@@ -80,5 +81,6 @@ Since there are too many things to learn at once...
 ### 💬 Ask Me About:
 
 * Time Series Forecasting and Recommendation Systems using Tidymodels and Shiny dashboards.
+* Natural language processing for text generation and classification
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
