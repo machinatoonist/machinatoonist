@@ -54,6 +54,8 @@ Since there are too many things to learn at once...
 
 * [Discrete Optimization Algorithms](https://www.coursera.org/learn/discrete-optimization).
 
+* [Design of Computer Programs - Peter Norvig](https://learn.udacity.com/courses/cs212)
+
 * Having a look at the Friday challenges at [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/)
 
 ### Books On My Reading List
