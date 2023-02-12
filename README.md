@@ -1,4 +1,4 @@
-# Hi, I'm Matt 🧑🏼‍
+# Hi, I'm Matt
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/mattrosinski/" target="_blank">
@@ -17,7 +17,7 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-With Coles Advanced Analytics and AI and Maltem Australia 
+With `Coles Advanced Analytics & AI` and Maltem Australia 
 
 ### ✏️ Left School With
 
