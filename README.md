@@ -24,6 +24,7 @@ Currently Exploring New Opportunities
 PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investment
 
 ### 💻 Currently Working On
+* [Leveraging Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
 * [Bayesian Linear Regression and Classification in Python](www.deeplearningcourses.com)
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
