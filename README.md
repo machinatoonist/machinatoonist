@@ -25,11 +25,14 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 
 ### 💻 Currently Working On
 * [Leveraging Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
-* [Bayesian Linear Regression and Classification in Python](www.deeplearningcourses.com)
+* [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+* [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
+* [Mastering Shiny](https://mastering-shiny.org/)
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
 
 ### ☕ Recently Finished Working On
+* [Bayesian Linear Regression and Classification in Python](www.deeplearningcourses.com)
 * [Natural Language Processing with Transformers](https://www.getsphere.com/)
 * [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
 * [Tidy Modeling with R](https://www.tmwr.org/)
