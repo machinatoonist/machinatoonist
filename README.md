@@ -26,6 +26,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 ### 💻 Currently Working On
 * [Leveraging Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+* [Javascript for R](https://book.javascript-for-r.com/)
 * [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
 * [Mastering Shiny](https://mastering-shiny.org/)
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
