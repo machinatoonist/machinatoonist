@@ -17,7 +17,7 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-With `Coles Advanced Analytics & AI` and Maltem Australia 
+Currently working on a one year contract with Maltem Australia 
 
 ### ✏️ Left School With
 
