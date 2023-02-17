@@ -51,7 +51,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 
 Since there are too many things to learn at once...
 
-* [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. I don't work in supply chain but enjoy solving "real world" problems with simulations. 
+* [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. 
 
 * [Machine Learning Engineering for Production MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops).
 
@@ -79,6 +79,7 @@ Since there are too many things to learn at once...
 * [CRAN Machine Learning](https://cran.r-project.org/web/views/MachineLearning.html)
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
 * [Bookdown](https://bookdown.org/home/tags/)
+* [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
 
 ### Data Sources
 
