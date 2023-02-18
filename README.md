@@ -29,6 +29,10 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Javascript for R](https://book.javascript-for-r.com/)
 * [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
 * [Mastering Shiny](https://mastering-shiny.org/)
+* [Building R Packages](https://r-pkgs.org/index.html)
+* [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
+* [R for Data Science](https://r4ds.had.co.nz/program-intro.html)
+* [UC Business Analytics in R](http://uc-r.github.io/)
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
 
