@@ -65,6 +65,8 @@ Since there are too many things to learn at once...
 
 * [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. 
 
+* [Internet of things](https://carpentries-incubator.github.io/iot-novice/)
+
 * [Machine Learning Engineering for Production MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops).
 
 * Julia language with an [MIT course](https://computationalthinking.mit.edu/Spring21/). 
