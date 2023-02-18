@@ -28,10 +28,17 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
 * [Javascript for R](https://book.javascript-for-r.com/)
 * [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
+
+#### Understanding the Hadleyverse
 * [Mastering Shiny](https://mastering-shiny.org/)
 * [Building R Packages](https://r-pkgs.org/index.html)
+* [Using ggplot2 in packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
+* [Programming with ggplot2](https://ggplot2-book.org/programming.html)
 * [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
 * [R for Data Science](https://r4ds.had.co.nz/program-intro.html)
+* [Advanced R](https://adv-r.hadley.nz/metaprogramming.html)
+
+#### Otherverses
 * [UC Business Analytics in R](http://uc-r.github.io/)
 * [The Carpentries](https://carpentries.org/)
 * [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
