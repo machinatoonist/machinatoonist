@@ -32,6 +32,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 #### Understanding the Tidyverse
 * [Mastering Shiny](https://mastering-shiny.org/)
 * [Building R Packages](https://r-pkgs.org/index.html)
+* [Building internal packages](https://emilyriederer.netlify.app/post/team-of-packages/#resources)
 * [Using ggplot2 in packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
 * [Programming with ggplot2](https://ggplot2-book.org/programming.html)
 * [Programming with dplyr](https://dplyr.tidyverse.org/articles/programming.html)
