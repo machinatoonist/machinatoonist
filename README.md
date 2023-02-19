@@ -29,12 +29,13 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Javascript for R](https://book.javascript-for-r.com/)
 * [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
 
-#### Understanding the Hadleyverse
+#### Understanding the Tidyverse
 * [Mastering Shiny](https://mastering-shiny.org/)
 * [Building R Packages](https://r-pkgs.org/index.html)
 * [Using ggplot2 in packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
 * [Programming with ggplot2](https://ggplot2-book.org/programming.html)
 * [Programming with dplyr](https://dplyr.tidyverse.org/articles/programming.html)
+* [rlang Lionel Henry](https://www.tidyverse.org/blog/2019/06/rlang-0-4-0/#a-simpler-interpolation-pattern-with)
 * [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
 * [R for Data Science](https://r4ds.had.co.nz/program-intro.html)
 * [Advanced R](https://adv-r.hadley.nz/metaprogramming.html)
