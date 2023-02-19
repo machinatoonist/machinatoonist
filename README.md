@@ -41,6 +41,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
 * [R for Data Science](https://r4ds.had.co.nz/program-intro.html)
 * [Advanced R](https://adv-r.hadley.nz/metaprogramming.html)
+* [Advanced R solutions](https://advanced-r-solutions.rbind.io/)
 
 #### Otherverses
 * [UC Business Analytics in R](http://uc-r.github.io/)
