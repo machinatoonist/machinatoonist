@@ -34,6 +34,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Building R Packages](https://r-pkgs.org/index.html)
 * [Using ggplot2 in packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
 * [Programming with ggplot2](https://ggplot2-book.org/programming.html)
+* [Programming with dplyr](https://dplyr.tidyverse.org/articles/programming.html)
 * [Tidyverse Style Guide](https://style.tidyverse.org/index.html)
 * [R for Data Science](https://r4ds.had.co.nz/program-intro.html)
 * [Advanced R](https://adv-r.hadley.nz/metaprogramming.html)
