@@ -28,6 +28,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
 * [Javascript for R](https://book.javascript-for-r.com/)
 * [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
+* [Happy git with R](https://happygitwithr.com/index.html)
 
 #### Understanding the Tidyverse
 * [Mastering Shiny](https://mastering-shiny.org/)
