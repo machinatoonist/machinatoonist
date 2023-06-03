@@ -24,6 +24,7 @@ Currently working on a one year contract with Maltem Australia
 PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investment
 
 ### 💻 Currently Working On
+* [Intuitive Bayes](https://www.intuitivebayes.com/)
 * [Leveraging Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
 * [Javascript for R](https://book.javascript-for-r.com/)
