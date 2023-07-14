@@ -63,11 +63,13 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 
 ### 📚 Currently Learning More About:
 
-* Applied Predictive Modeling, with the book by Max Kuhn and Kjell Johnson [Applied Predictive Modeling](http://appliedpredictivemodeling.com/).
+* Everything Bayesian
 
 ### 💡 Future Learning Plans:
 
 Since there are too many things to learn at once...
+
+* Applied Predictive Modeling, with the book by Max Kuhn and Kjell Johnson [Applied Predictive Modeling](http://appliedpredictivemodeling.com/).
 
 * [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. 
 
