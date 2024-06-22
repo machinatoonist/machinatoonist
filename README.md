@@ -17,7 +17,7 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-Currently working on a one year contract with Maltem Australia 
+I work at Coles Group in Australia as a Senior Data Scientist
 
 ### ✏️ Left School With
 
