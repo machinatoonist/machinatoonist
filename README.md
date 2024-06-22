@@ -13,7 +13,7 @@
 </br>
 <p>
  
-I'm a data scientist who is passionate about learning and teaching others. When I'm not coding you can find me trail running, cooking or playing Go.</p>
+I'm a data scientist who is passionate about learning and teaching others. When I'm not coding you can find me running, cooking or playing Go.</p>
 
 ### 💼 Where I Work
 
@@ -24,14 +24,10 @@ I work at Coles Group in Australia as a Senior Data Scientist
 PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investment
 
 ### 💻 Currently Working On
-* [Intuitive Bayes](https://www.intuitivebayes.com/)
-* [Leveraging Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
-* [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
-* [Javascript for R](https://book.javascript-for-r.com/)
-* [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
-* [Happy git with R](https://happygitwithr.com/index.html)
+* [Intuitive Bayes - Advanced Regression: Bayesian Analysis with PyMC](https://www.intuitivebayes.com/)
+* [Becoming a BayeZian: Bayesian Analysis with Stan](https://athlyticz.academy)
 
-#### Understanding the Tidyverse
+### Understanding the Tidyverse References
 * [Mastering Shiny](https://mastering-shiny.org/)
 * [Building R Packages](https://r-pkgs.org/index.html)
 * [Building internal packages](https://emilyriederer.netlify.app/post/team-of-packages/#resources)
@@ -44,13 +40,12 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Advanced R](https://adv-r.hadley.nz/metaprogramming.html)
 * [Advanced R solutions](https://advanced-r-solutions.rbind.io/)
 
-#### Otherverses
+### Otherverses
 * [UC Business Analytics in R](http://uc-r.github.io/)
 * [The Carpentries](https://carpentries.org/)
-* [DataCamp - R Programmer Track](https://www.datacamp.com/join-me/NTU5MTAwMg==) 
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
 
-### ☕ Recently Finished Working On
+### ☕ Finished Working On
 * [Bayesian Linear Regression and Classification in Python](www.deeplearningcourses.com)
 * [Natural Language Processing with Transformers](https://www.getsphere.com/)
 * [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
@@ -59,11 +54,6 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Practical Data Science Specialization](https://coursera.org/share/42191e339042e776efa617cf6edc49f2), learning how to combine my machine learning knowledge with AWS. 
 * [Coursera - Building Cloud Computing Solutions as Scale](https://coursera.org/share/60cb54781888f2614d7bf3f4005c03fe)
 * [edX Stanford Online - Statistical Learning](https://courses.edx.org/certificates/b0e1d1bb11b542db8929d7cc9d145de9)
-
-
-### 📚 Currently Learning More About:
-
-* Everything Bayesian
 
 ### 💡 Future Learning Plans:
 
@@ -82,6 +72,16 @@ Since there are too many things to learn at once...
 * [Discrete Optimization Algorithms](https://www.coursera.org/learn/discrete-optimization).
 
 * [Design of Computer Programs - Peter Norvig](https://learn.udacity.com/courses/cs212)
+
+* [Leveraging Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
+  
+* [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+  
+* [Javascript for R](https://book.javascript-for-r.com/)
+  
+* [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
+  
+* [Happy git with R](https://happygitwithr.com/index.html)
 
 * Having a look at the Friday challenges at [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/)
 
