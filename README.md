@@ -26,6 +26,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 ### 💻 Currently Working On
 * [Intuitive Bayes - Advanced Regression: Bayesian Analysis with PyMC](https://www.intuitivebayes.com/)
 * [Becoming a BayeZian: Bayesian Analysis with Stan](https://athlyticz.academy)
+* [Causal Inference in R](https://www.r-causal.org/)
 
 ### Understanding the Tidyverse References
 * [Mastering Shiny](https://mastering-shiny.org/)
@@ -55,9 +56,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * [Coursera - Building Cloud Computing Solutions as Scale](https://coursera.org/share/60cb54781888f2614d7bf3f4005c03fe)
 * [edX Stanford Online - Statistical Learning](https://courses.edx.org/certificates/b0e1d1bb11b542db8929d7cc9d145de9)
 
-### 💡 Future Learning Plans:
-
-Since there are too many things to learn at once...
+### 💡 Future Learning Possibilities:
 
 * Applied Predictive Modeling, with the book by Max Kuhn and Kjell Johnson [Applied Predictive Modeling](http://appliedpredictivemodeling.com/).
 
@@ -87,10 +86,10 @@ Since there are too many things to learn at once...
 
 ### Books On My Reading List
 
-* [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919). 
-* [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/).
-* [Practical MLOps: Operationalizing Machine Learning Models](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/).
-* [Feature Engineering and Selection](https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive/).
+* [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919).
+* [Bayesian Data Analysis]
+
+### Free Online Books
 * [The Full Bookdown Catalog](https://rviews.rstudio.com/2021/11/04/bookdown-org/)
 
 ### Information Honeypots
