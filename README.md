@@ -24,8 +24,8 @@ I work at Coles Group in Australia as a Senior Data Scientist
 PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investment
 
 ### 💻 Currently Working On
+* [Building LLM Applications for Data Scientists and Software](https://maven.com/hugo-stefan/building-llm-apps-ds-and-swe-from-first-principles)
 * [Intuitive Bayes - Advanced Regression: Bayesian Analysis with PyMC](https://www.intuitivebayes.com/)
-* [Becoming a BayeZian: Bayesian Analysis with Stan](https://athlyticz.academy)
 * [Causal Inference in R](https://www.r-causal.org/)
 
 ### Understanding the Tidyverse References
@@ -47,6 +47,7 @@ PhD in Chemical Engineering and Grad Certificate in Applied Finance and Investme
 * Building data visualisations and models with the Tidymodels and Tidyverse meta-packages. Every Tuesday I check out the latest data posted via the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) package.
 
 ### ☕ Finished Working On
+* [Becoming a BayeZian: Bayesian Analysis with Stan](https://athlyticz.academy)
 * [Bayesian Linear Regression and Classification in Python](www.deeplearningcourses.com)
 * [Natural Language Processing with Transformers](https://www.getsphere.com/)
 * [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
